@@ -5,6 +5,7 @@
 **This is Bold Text** --
 *This is Italic Text*
 
-- Ronsldo
+- This is bullets
+- Ronaldo
 - Ramos
 - Bale
