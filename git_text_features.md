@@ -14,6 +14,5 @@ GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
 
-As Kanye West said:
-> We're living the future so
-> the present is our past
+As Ragnar said:
+> "Yes, I Have Made Mistakes. Life Didn't Come With Instructions."
