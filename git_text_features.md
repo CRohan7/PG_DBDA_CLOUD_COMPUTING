@@ -10,7 +10,7 @@
 - Ramos
 - Bale
 
-  INC| BJP
+  INC        | BJP
 ------------ | -------------
 Raga | Namo
 Mana | Mota Bhai
