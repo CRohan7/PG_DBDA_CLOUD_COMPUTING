@@ -9,8 +9,3 @@
 - Ronaldo
 - Ramos
 - Bale
-
-  INC        | BJP
------------- | -------------
-Raga | Namo
-Mana | Mota Bhai
