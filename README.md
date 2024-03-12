@@ -1,1 +1,1 @@
-# This is for learning git basics
+# This is for learning Git basics
